@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SinghShop</string>
+    <string name="title_activity_menu">menuActivity</string>
+
+
+    <string-array name="name">
+        <item>Chocolate Shake</item>
+        <item>Stawberry Shake</item>
+        <item>Vanilla Shake</item>
+        <item>Hot Caramel Sundae</item>
+        <item>Hot Fudge Sundae</item>
+        <item>Shamrock Shake</item>
+        <item>Mango pineapple smoothie</item>
+        <item>Blueberry pomegranate</item>
+        <item>Chocolate Triple Shake</item>
+        <item>Stawberry Triple Shake</item>
+        <item>Vanilla Triple Shake</item>
+        <item>Stawberry Smoothie</item>
+
+
+    </string-array>
+    <string-array name="information">
+        <item>SinghShopss chocolate shake is a delicious chocolate dessert made with vanilla and chocolate syrup.</item>
+        <item>SinghShopss Stawberry shake is made with creamy vanilla soft serve, blended with Stawberry syrup.</item>
+        <item>SinghShopss Vanilla shake is made with creamy vanilla soft serve, topped with whipped topping for cool tasty treat.</item>
+        <item>Smooth and creamy vanilla soft serve, topped with your choice of yummy caramel sauce. Mmmm!</item>
+        <item>Smooth and creamy vanilla soft serve, topped with decadent hot fudge sauce. Mmmm!</item>
+        <item>A classic flavour is back for a limited time only! The delicious and refreshing taste of mint is back in our iconic Shamrock Shake. While supplies last.</item>
+        <item>Blended with ice, real mango and pineapple purée. Enjoy it with or without yogurt.</item>
+        <item>Made with real fruit purée and ice, it’s a refreshing way to enjoy the taste of blueberries and pomegranate. Try yours with or without yogurt.</item>
+        <item>Thick, smooth and deliciously creamy soft serve, mixed with your choice of decadent chocolate, strawberry or vanilla syrup for an extra taste of yumminess.</item>
+        <item>Thick, smooth and deliciously creamy soft serve, mixed with your choice of decadent chocolate, strawberry or vanilla syrup for an extra taste of yumminess.</item>
+        <item>Thick, smooth and deliciously creamy soft serve, mixed with your choice of decadent chocolate, strawberry or vanilla syrup for an extra taste of yumminess.</item>
+        <item>Get a taste of real strawberry and banana purée blended to perfection with ice. Enjoy it with or without yogurt.\ \ *in small, medium and large</item>
+
+    </string-array>
+</resources>
